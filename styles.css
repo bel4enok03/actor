@@ -1,0 +1,38 @@
+body {
+    background-color: #191919;
+}
+hr {
+    border: 2.5px solid #f7d7c8 ;
+}
+table {
+    background-color: #fae1d6 ;
+    border: #fae1d6 5px solid ;
+}
+
+th,td {
+    border: #8b9398 3px solid;
+}
+.heading-top {
+    color:#f7d7c8 ;
+    font-size: 40px;  
+} 
+.heading-middle {
+    color: #ede3e5;
+    font-size: 30px;
+}
+.headid {
+    color: #DFDFDE;
+    font-size: 30px;
+}
+p {
+    color: #DDDDDD;
+}
+.par {
+    color: #DFDFDE;   
+}
+.par1 {
+    color: #191919;
+}
+.par2 {
+    color: #8E3200;
+}
